@@ -1,0 +1,2 @@
+top_sort: main.c graph_functions.c list_functions.c
+	gcc -o top_sort main.c graph_functions.c list_functions.c
